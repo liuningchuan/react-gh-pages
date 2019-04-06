@@ -2,7 +2,7 @@
   "name": "react-gh-pages",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://liuningchuan.github.io/react-gh-paages",
+  "homepage": "https://liuningchuan.github.io/react-gh-pages",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
