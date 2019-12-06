@@ -4,9 +4,9 @@
 
 # Introduction
 
-In this tutorial, I'll show you how I deployed a React app—which I created using `create-react-app`—to GitHub Pages.
+本教程介绍如何将一个由`create-react-app`创建的React应用部署到GitHub Pages.
 
-You can visit the deployed app, at [https://lnlynn.github.io/react-gh-pages/](https://lnlynn.github.io/react-gh-pages/).
+你可以浏览部署好的页面 [https://lnlynn.github.io/react-gh-pages/](https://lnlynn.github.io/react-gh-pages/).
 
 This repository contains the files related to the app. The `master` branch contains the app's source code (the code the app's developers edit), and the `gh-pages` branch contains a *built* version of the app (i.e. the code that GitHub Pages serves to the app's visitors).
 
